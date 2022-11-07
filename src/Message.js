@@ -3,7 +3,7 @@ import React from 'react';
 function Message({ name }) {
     return (
         <div>
-            Привет {name}
+            Hello {name}
         </div>
     )
 };
