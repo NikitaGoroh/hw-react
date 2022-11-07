@@ -3,7 +3,7 @@ import './App.css';
 import Message from "./Message"
 
 function App() {
-  const name = "John"
+  const name = "Alex"
   return (
     <div>
       <Message name={name} />
